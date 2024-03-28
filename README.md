@@ -4,6 +4,6 @@
 - _diagrama de uso_.
 - _diagrama de classes_.
 - _prototipos_.
-- _grafico de desenvolvimento_.
+- _grafico de gantt_.
 ## Extras
 - _prints usados para criação do manual de uso_.
