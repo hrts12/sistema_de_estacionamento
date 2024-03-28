@@ -15,4 +15,4 @@
 - _prints usados para criação do manual de uso_.
 
 ## Redes sociais
-[**instagram**](https://www.instagram.com/f.haritos/)
+[**instagram**](https://www.instagram.com/f.haritos)
