@@ -1,6 +1,7 @@
 # Sistema de estacionamento local e toda sua documentação e graficos
 [material](#material) |
-[extras](#extras)
+[extras](#extras) |
+[rede social](#redes-social)
 
 ## Material
 - _documentação de requisitos_.
@@ -14,5 +15,5 @@
 ## Extras
 - _prints usados para criação do manual de uso_.
 
-## Redes sociais
+## Redes social
 [**instagram**](https://www.instagram.com/f.haritos)
